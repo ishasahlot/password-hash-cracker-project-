@@ -5,6 +5,9 @@
 - **SHA-1**
 - **SHA-256**
 
+### 🌐 Live Demo  
+[Try HashCracker here](https://password-hash-cracker-project.vercel.app)
+
 > ⚠️ This tool is for educational purposes only to raise awareness about password security.
 
 ---
